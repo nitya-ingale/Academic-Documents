@@ -10,7 +10,10 @@
 ##### This document represents an ER diagram for all the schemas required to store the details. 
 
 #### Project Charter Document:
-##### This document 
+##### This document Identify a software development project that I think would be beneficial for UT Dallas to undertake. Created a draft project charter covering the following items. Brief description of the project including the purpose of the projectSuccess criteria including measurable project objectivesHigh-level requirements, Summary milestone, scheduleSummary, budget
+##### Names of project sponsor, project manager, and product manager
+##### Created a stakeholder register and classified each stakeholder using the Power/Interest grid. Described how can i communicate with each stakeholder group.
+
 
 #### Report of findings - IGTBOK(It's Going To Be Okay) NGO:
 ##### This is a documentation to record all the existing process in place for the NGO. This document lists the business processes and functional requirements that was discussed during the discovery process with the NGO. 
